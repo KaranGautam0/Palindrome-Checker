@@ -2,10 +2,6 @@
 
 This is a simple Palindrome Checker implemented using HTML, CSS, and JavaScript.
 
-## Description
-
-A Palindrome Checker is a tool that determines whether a given input string reads the same forwards and backwards, ignoring spaces, punctuation, and capitalization.
-
 ## DEMO LIVE 
 [***Click here***](https://karangautam0.github.io/Palindrome-Checker/) to visit the website.
 
